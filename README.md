@@ -36,11 +36,27 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A playne and godly exposytion or declaratio[n] of the co[m]mune crede (which in the Latin tonge is c
+
 #####Body#####
 
+1. ¶To the ryght excellent & most honorable lorde Thomas Erle of wyl• shyre: and of Ormonde / 〈…〉 of Roterdame / Greatynge.
+
+1. ¶A Dialoge called the Symbole or instructyon in the christen fayth or belyue / made by Mayster Erasmus of Roterdame. The persones speakynge•are the Mayster / and the Disciple / the one is marked by M the other by D.
+
+    _ The fyrste instruction.
+
+    _ The seconde Instruction. 
+
+    _ ¶The thyrde instruction.
+
+    _ The fourth in struction. 
+
+    _ ¶The fyfth instruction. 
+
+    _ The .vi. instruction. 
+
 #####Back#####
-A playne and godly exposytion or declaratio[n] of the co[m]mune crede (which in the Latin tonge is c
+¶ Imprynted at London in Fletestrete: by me Robert Redman / dwellynge at the sygne of ye George / ne
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
